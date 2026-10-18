@@ -1,1 +1,374 @@
-json     {       "historique": []     }
+{
+  "saisies": {
+    "a-2": {
+      "0": {
+        "0": {
+          "weight": "30",
+          "reps": "8",
+          "done": true
+        },
+        "1": {
+          "weight": "30",
+          "reps": "10",
+          "done": true
+        },
+        "2": {
+          "weight": "40",
+          "reps": "10",
+          "done": true
+        }
+      },
+      "1": {
+        "0": {
+          "weight": "40",
+          "reps": "8",
+          "done": true
+        },
+        "1": {
+          "weight": "45",
+          "reps": "8",
+          "done": true
+        },
+        "2": {
+          "weight": "50",
+          "reps": "8",
+          "done": true
+        }
+      },
+      "2": {
+        "0": {
+          "weight": "150",
+          "reps": "8",
+          "done": true
+        },
+        "1": {
+          "weight": "130",
+          "reps": "8",
+          "done": true
+        },
+        "2": {
+          "weight": "150",
+          "reps": "8",
+          "done": true
+        }
+      },
+      "3": {
+        "0": {
+          "weight": "20",
+          "reps": "12",
+          "done": true
+        },
+        "1": {
+          "weight": "20",
+          "reps": "12",
+          "done": true
+        }
+      },
+      "4": {
+        "0": {
+          "weight": "20",
+          "reps": "8",
+          "done": true
+        },
+        "1": {
+          "weight": "20",
+          "reps": "6",
+          "done": true
+        }
+      },
+      "5": {
+        "0": {
+          "weight": "25",
+          "reps": "15",
+          "done": true
+        },
+        "1": {
+          "weight": "25",
+          "reps": "17",
+          "done": true
+        }
+      },
+      "6": {
+        "0": {
+          "weight": "25",
+          "reps": "8",
+          "done": true
+        },
+        "1": {
+          "weight": "35",
+          "reps": "8",
+          "done": true
+        },
+        "2": {
+          "weight": "40",
+          "reps": "8",
+          "done": true
+        }
+      }
+    }
+  },
+  "historique": [
+    {
+      "name": "Vendredi · Full body",
+      "date": "18/10/2026 10:48:12",
+      "exercises": [
+        {
+          "name": "Développé incliné",
+          "sets": [
+            {
+              "weight": "30",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "30",
+              "reps": "10",
+              "done": true
+            },
+            {
+              "weight": "40",
+              "reps": "10",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Rowing machine ou poulie",
+          "sets": [
+            {
+              "weight": "40",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "45",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "50",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Presse à cuisses",
+          "sets": [
+            {
+              "weight": "150",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "130",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "150",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Élévations latérales",
+          "sets": [
+            {
+              "weight": "20",
+              "reps": "12",
+              "done": true
+            },
+            {
+              "weight": "20",
+              "reps": "12",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Curl biceps",
+          "sets": [
+            {
+              "weight": "20",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "20",
+              "reps": "6",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Extension triceps",
+          "sets": [
+            {
+              "weight": "25",
+              "reps": "15",
+              "done": true
+            },
+            {
+              "weight": "25",
+              "reps": "17",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Mollets",
+          "sets": [
+            {
+              "weight": "25",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "35",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "40",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vendredi · Full body",
+      "date": "18/10/2026 10:46:36",
+      "exercises": [
+        {
+          "name": "Développé incliné",
+          "sets": [
+            {
+              "weight": "20",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "20",
+              "reps": "10",
+              "done": true
+            },
+            {
+              "weight": "20",
+              "reps": "10",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Rowing machine ou poulie",
+          "sets": [
+            {
+              "weight": "30",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "35",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "45",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Presse à cuisses",
+          "sets": [
+            {
+              "weight": "120",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "130",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "140",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Élévations latérales",
+          "sets": [
+            {
+              "weight": "10",
+              "reps": "12",
+              "done": true
+            },
+            {
+              "weight": "10",
+              "reps": "12",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Curl biceps",
+          "sets": [
+            {
+              "weight": "12,5",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "15",
+              "reps": "6",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Extension triceps",
+          "sets": [
+            {
+              "weight": "15",
+              "reps": "15",
+              "done": true
+            },
+            {
+              "weight": "15",
+              "reps": "17",
+              "done": true
+            }
+          ]
+        },
+        {
+          "name": "Mollets",
+          "sets": [
+            {
+              "weight": "20",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "30",
+              "reps": "8",
+              "done": true
+            },
+            {
+              "weight": "30",
+              "reps": "8",
+              "done": true
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
